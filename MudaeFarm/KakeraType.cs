@@ -6,6 +6,7 @@ namespace MudaeFarm
         Blue,
         Teal,
         Green,
+        Light,
         Yellow,
         Orange,
         Red,
